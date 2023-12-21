@@ -1,4 +1,4 @@
-![logo height="150"](https://github.com/chandan789maity/chandan789maity/blob/main/1_b29pJKZqp6Jxb3rd9QlJiw.png)
+
 <h1 align="center">Hi 👋, I'm Chandan Maity</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="coding" width="300"
