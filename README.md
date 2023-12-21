@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Maity</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="coding" style="border-radius: 20%" width="300"
-    src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475xnl4aaj3tj3db4cgwyzaapxoosyv848olmw20xf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="300"
+    src="https://img.freepik.com/free-vector/man-sitting-desktop-pc-computer-screen_3446-328.jpg?size=626&ext=jpg&ga=GA1.1.1536215559.1703188933&semt=ais">
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=chandan789maity&label=Profile%20views&color=0e75b6&style=flat"
