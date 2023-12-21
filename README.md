@@ -49,13 +49,8 @@
             alt="express" width="60" height="60" /> </a> <a href="https://www.w3.org/html/" target="_blank"
         rel="noreferrer"></a> </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&locale=en&layout=compact"
-        alt="chandan789maity" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity" /></p><br><br>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&locale=en"
-        alt="chandan789maity" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&theme=dark&title_color=0000ff&text_color=00ffff&locale=en" alt="chandan789maity" /></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&"
-        alt="chandan789maity" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity" /></p><br><br>
