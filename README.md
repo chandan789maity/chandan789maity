@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandan Maity</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="coding" width="400"
+<img align="right" alt="coding" style="border-radius: 20%" width="400"
     src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475xnl4aaj3tj3db4cgwyzaapxoosyv848olmw20xf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img
