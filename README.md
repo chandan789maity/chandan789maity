@@ -1,4 +1,4 @@
-![logo](https://github.com/chandan789maity/chandan789maity/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
+![logo](https://github.com/chandan789maity/chandan789maity/blob/main/Black%20Yello.png)
 <h1 align="center">Hi 👋, I'm Chandan Maity</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="coding" width="300"
