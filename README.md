@@ -1,6 +1,6 @@
 ![logo](https://github.com/chandan789maity/chandan789maity/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Chandan Maity</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate Fullstack web developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/free-vector/man-sitting-desktop-pc-computer-screen_3446-328.jpg?size=626&ext=jpg&ga=GA1.1.1536215559.1703188933&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan789maity&label=Profile%20views&color=0e75b6&style=flat" alt="chandan789maity" /> </p>
@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://instagram.com/chandan_maity_789" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandan_maity_789" height="30" width="40" /></a>
+    <a href="https://instagram.com/chandan_maity_789" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"         alt="chandan_maity_789" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
