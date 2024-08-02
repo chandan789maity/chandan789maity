@@ -167,9 +167,10 @@
     </tbody>
   </table>
 </div>
-
-
 </p>
+<div id="header" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity"/></p>
+</div>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=transparent" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
@@ -183,9 +184,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity" height="200" width="400"/>
 </p>
 
-<div id="header" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity"/></p>
-</div>
+
 
 <p align="center">
  <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
