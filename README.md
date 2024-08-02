@@ -168,9 +168,11 @@
   </table>
 </div>
 </p>
+<hr>
 <div id="header" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity"/></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity" width="800" height="200"/></p>
 </div>
+<hr>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=transparent" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
@@ -178,6 +180,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandan789maity&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=transparent" height="180em" alt="Commitments"/>
 </div>
+<hr>
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&theme=dark&title_color=0007ff&text_color=00ffff&locale=en" alt="chandan789maity" />
