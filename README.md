@@ -8,10 +8,20 @@
 - 📫 How to reach me: *maity789chandan@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chandan-maity-4b7643265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-maity-4b7643265/" height="30" width="40" /></a>
-<a href="https://instagram.com/chandan_maity_789/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandan_maity_789/" height="30" width="40" /></a>
-</p>
+<div>
+  <p align="left">
+    <a href="maity789chandan@gmail.com" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40"/>
+    </a>
+    <a href="https://linkedin.com/in/chandan-maity-4b7643265/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    </a>
+    <a href="https://instagram.com/chandan_maity_789/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+    </a>
+  </p>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3> 
 <div>
