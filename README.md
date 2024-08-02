@@ -165,6 +165,7 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
     </tbody>
   </table>
 
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <a href="https://github.com/chandan789maity">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=monokai" alt="Chandan's GitHub Profile Summary" />
@@ -185,6 +186,7 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
 </div>
 
 <hr>
+
 
 
 
