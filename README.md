@@ -175,8 +175,8 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
 </div>
 <!-- ----------- -->
 <div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=dark" height="180em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=monokai" height="202em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=monokai&exclude=html,CSS,Jupyter%20Notebook" height="202em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
 </div>
 <br>
 <div id="header" align="center">
