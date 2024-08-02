@@ -183,7 +183,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandan789maity&theme=dark&utcOffset=5.30" height="180em" alt="Time Graph" style="border-radius: 10px; border: 1px solid #00bfae; background-color: #002b36;"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=dark" height="180em" alt="Commitments" style="border-radius: 10px; border: 1px solid #00bfae; background-color: #004d00;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=dark" height="180em" alt="Commitments" style="border-radius: 10px; border: 1px solid #00bfae; background-color: #A300FF;"/>
 </div>
 
 
