@@ -180,8 +180,9 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
 </div>
 <br>
 <div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=monokai" alt="chandan789maity" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=monokai" alt="chandan789maity" width="69%"/>
 </div>
+
 <!-- ---------------------- -->
 
 <p align="center">
