@@ -7,17 +7,18 @@
 
 - 📫 How to reach me: *maity789chandan@gmail.com*
 
+I am a Computer Science and Engineering (CSE) student, a full stack MERN developer, and a machine learning enthusiast. I love working on innovative projects and exploring new technologies. I have a strong foundation in both frontend and backend development, and I am constantly learning and growing my skills.
+
 <h3 align="left">Connect with me:</h3>
-<div>
-  <p align="left">
-    <a href="https://linkedin.com/in/chandan-maity-4b7643265/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-    </a>
-    <a href="https://instagram.com/chandan_maity_789/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-    </a>
-  </p>
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/chandan-maity-4b7643265/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/chandan_maity_789/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+</p>
+
 <h3 align="left">Portfolio:</h3>
 <p align="left">
   <a href="https://portfolio-chandan-maity.vercel.app/" target="_blank" rel="noreferrer">
@@ -26,134 +27,127 @@
   </a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>JS</th>
+      <th>Typescript</th>
+      <th>C++</th>
+      <th>Java</th>
+      <th>Python</th>
+      <th>C</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/></td>
+    </tr>
+  </tbody>
+</table>
 
-<h3 align="left">Languages and Tools:</h3> 
-<div>
-  <table>
-    <thead>
-      <tr>
-        <th>JS</th>
-        <th>Typescript</th>
-        <th>C++</th>
-        <th>Java</th>
-        <th>Python</th>
-        <th>C</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<h3 align="left">Frontend Skills I Use:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>React</th>
+      <th>Tailwind</th>
+      <th>Bootstrap</th>
+      <th>CSS</th>
+      <th>HTML</th>
+      <th>Redux</th>
+      <th>Material UI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/></td>
+      <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/tailwind.png" title="Tailwind" alt="Tailwind" width="55" height="55"/></td>
+      <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/boot.png" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="55" height="55"/></td>
+    </tr>
+  </tbody>
+</table>
 
-<div>
-  <h3 align="left">Frontend Skills I Use:</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>React</th>
-        <th>Tailwind</th>
-        <th>Bootstrap</th>
-        <th>CSS</th>
-        <th>HTML</th>
-        <th>Redux</th>
-        <th>Material UI</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/></td>
-        <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/tailwind.png" title="Tailwind" alt="Tailwind" width="55" height="55"/></td>
-        <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/boot.png" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="55" height="55"/></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<h3>Backend Skills I Use:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Node.js</th>
+      <th>Express</th>
+      <th>MongoDB</th>
+      <th>MySQL</th>
+      <th>Spring Boot</th>
+      <th>Firebase</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/></td>
+      <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/express.png" title="Express" alt="Express" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/></td>
+    </tr>
+  </tbody>
+</table>
 
-<div>
-  <h3>Backend Skills I Use:</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Node.js</th>
-        <th>Express</th>
-        <th>MongoDB</th>
-        <th>MySQL</th>
-        <th>Spring Boot</th>
-        <th>Firebase</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/></td>
-        <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/express.png" title="Express" alt="Express" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<div>
-  <h3>Machine Learning Skills I Use:</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Numpy</th>
-        <th>Pandas</th>
-        <th>Scikit-Learn</th>
-        <th>Matplotlib</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<h3>Machine Learning Skills I Use:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Numpy</th>
+      <th>Pandas</th>
+      <th>Scikit-Learn</th>
+      <th>Matplotlib</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/></td>
+    </tr>
+  </tbody>
+</table>
 
+<h3>Environments and Tools I Use:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Anaconda</th>
+      <th>Jupyter</th>
+      <th>Postman</th>
+      <th>Git</th>
+      <th>VS Code</th>
+      <th>Eclipse</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="55" height="55"/></td>
+    </tr>
+  </tbody>
+</table>
 <div>
-  <h3>Environments and Tools I Use:</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Anaconda</th>
-        <th>Jupyter</th>
-        <th>Postman</th>
-        <th>Git</th>
-        <th>VS Code</th>
-        <th>IntelliJ IDEA</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="55" height="55"/></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<div>
+
+
+  
   <h3>Operating Systems I Use:</h3>
   <table>
     <thead>
