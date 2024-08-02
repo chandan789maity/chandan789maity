@@ -174,8 +174,8 @@
 </div>
 <hr>
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&theme=dark&title_color=0007ff&text_color=00ffff&locale=en" alt="chandan789maity" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity" height="200" width="400"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&theme=dark&title_color=0007ff&text_color=00ffff&locale=en" alt="chandan789maity" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity"  width="380em"/>
 </p>
 <hr>
 <div align="center">
