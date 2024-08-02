@@ -63,9 +63,28 @@
 
 ### OS:
 
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+<div>
+  <h3>### Operating Systems I Use:</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Linux</th>
+        <th>Ubuntu</th>
+        <th>Parrot</th>
+        <th>Windows</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+       <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Parrot_logo.png/512px-Parrot_logo.png" title="Parrot OS" alt="Parrot OS" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 </p>
 
