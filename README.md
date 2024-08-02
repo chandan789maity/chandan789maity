@@ -51,19 +51,17 @@
         <th>HTML</th>
         <th>Redux</th>
         <th>Material UI</th>
-        <th>Magic UI</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/></td>
+        <td><img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="55" height="55"/></td>
-        <td><img src="https://magicbell.io/static/icons/magicui/magicui-original.svg" title="Magic UI" alt="Magic UI" width="55" height="55"/></td>
       </tr>
     </tbody>
   </table>
