@@ -139,10 +139,6 @@
     </tbody>
   </table>
 </div>
-
-
-### OS:
-
 <div>
   <h3>Operating Systems I Use:</h3>
   <table>
