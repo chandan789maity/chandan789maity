@@ -82,7 +82,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/></td>
         <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/express.png" title="Express" alt="Express" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
