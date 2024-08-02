@@ -18,6 +18,13 @@
     </a>
   </p>
 </div>
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+  <a href="https://portfolio-chandan-maity.vercel.app/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Portfolio" height="30" width="40" class="rounded-lg"/>
+    Visit my Portfolio
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3> 
