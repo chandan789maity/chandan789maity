@@ -92,6 +92,27 @@
     </tbody>
   </table>
 </div>
+<div>
+  <h3>Machine Learning Skills I Use:</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Numpy</th>
+        <th>Pandas</th>
+        <th>Scikit-Learn</th>
+        <th>Matplotlib</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 
