@@ -40,7 +40,7 @@
 </div>
 
 <div>
-  <h3>### Frontend Skills I Use:</h3>
+  <h3 align="left">Frontend Skills I Use:</h3>
   <table>
     <thead>
       <tr>
