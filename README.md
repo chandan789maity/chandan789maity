@@ -173,6 +173,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity" width="800" height="200"/></p>
 </div>
 <hr>
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&theme=dark&title_color=0007ff&text_color=00ffff&locale=en" alt="chandan789maity" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity" height="200" width="400"/>
+</p>
+<hr>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=transparent" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
@@ -182,10 +187,7 @@
 </div>
 <hr>
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&theme=dark&title_color=0007ff&text_color=00ffff&locale=en" alt="chandan789maity" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity" height="200" width="400"/>
-</p>
+
 
 
 
