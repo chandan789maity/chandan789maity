@@ -173,24 +173,16 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
     </a>
   </p>
 </div>
-
+<!-- ----------- -->
+<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=dark" height="180em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+</div>
+<br>
 <div id="header" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=monokai" alt="chandan789maity" />
 </div>
 <!-- ---------------------- -->
-
-<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=dark" height="180em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandan789maity&theme=dark&utcOffset=5.30" height="180em" alt="Time Graph" style="border-radius: 10px; border: 1px solid #00bfae; background-color: #002b36;"/>
-</div>
-<hr>
-
-
-
-
-
 
 <p align="center">
  <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
