@@ -144,10 +144,7 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
     </tr>
   </tbody>
 </table>
-<div>
 
-
-  
   <h3>Operating Systems I Use:</h3>
   <table>
     <thead>
@@ -167,8 +164,13 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
       </tr>
     </tbody>
   </table>
-</div>
+
+<p align="center">
+  <a href="https://github.com/chandan789maity">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=monokai" alt="Chandan's GitHub Profile Summary" />
+  </a>
 </p>
+
 <hr>
 <div id="header" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity" width="1000em" height="200"/></p>
@@ -179,9 +181,8 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandan789maity&theme=dark&utcOffset=5.30" height="180em" alt="Time Graph" style="border-radius: 10px; border: 1px solid #00bfae; background-color: #002b36;"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=dark" height="180em" alt="Commitments" style="border-radius: 10px; border: 1px solid #00bfae; background-color: #00c647;"/>
-</div>
 
+</div>
 
 <hr>
 
