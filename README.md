@@ -171,11 +171,15 @@
 
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&theme=dark&title_color=0007ff&text_color=00ffff&locale=en" alt="chandan789maity" /></p>
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&theme=dark&title_color=0007ff&text_color=00ffff&locale=en" alt="chandan789maity" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity" height="200" width="400"/>
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity" width="468" height="195"/></p>
+<div id="header" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity"/></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity" height="197"/></p>
 <p align="center">
  <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
 </p>
