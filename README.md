@@ -173,11 +173,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity" width="800" height="200"/></p>
 </div>
 <hr>
-<p align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&theme=dark&title_color=0007ff&text_color=00ffff&locale=en" alt="chandan789maity" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity"  width="380em"/>
-</p>
-<hr>
 <div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=dark" height="180em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
