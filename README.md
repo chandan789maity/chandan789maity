@@ -178,13 +178,14 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan789maity&show_icons=true&theme=dark&title_color=ff00ff&text_color=cf5953&locale=en&layout=compact" alt="chandan789maity"  width="380em"/>
 </p>
 <hr>
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandan789maity&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandan789maity&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=transparent" height="180em" alt="Commitments"/>
+<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=dark" height="180em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandan789maity&theme=dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandan789maity&theme=dark&utcOffset=5.30" height="180em" alt="Time Graph" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=dark" height="180em" alt="Commitments" style="border-radius: 10px; border: 1px solid #00bfae;"/>
 </div>
+
 <hr>
 
 
