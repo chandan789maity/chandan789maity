@@ -67,6 +67,33 @@
   </table>
 </div>
 
+<div>
+  <h3>Backend Skills I Use:</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Node.js</th>
+        <th>Express</th>
+        <th>MongoDB</th>
+        <th>MySQL</th>
+        <th>Spring Boot</th>
+        <th>Firebase</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 
 ### Best frameworks and main libraries for Web development:
 
