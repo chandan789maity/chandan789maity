@@ -170,7 +170,7 @@
 </p>
 <hr>
 <div id="header" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity" width="800" height="200"/></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=dark" alt="chandan789maity" width="1000em" height="200"/></p>
 </div>
 <hr>
 <div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
