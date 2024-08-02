@@ -121,29 +121,32 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
   </tbody>
 </table>
 
-<h3>Environments and Tools I Use:</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Anaconda</th>
-      <th>Jupyter</th>
-      <th>Postman</th>
-      <th>Git</th>
-      <th>VS Code</th>
-      <th>Eclipse</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="55" height="55"/></td>
-    </tr>
-  </tbody>
-</table>
+<div>
+  <h3>Environments and Tools I Use:</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Anaconda</th>
+        <th>Jupyter</th>
+        <th>Postman</th>
+        <th>Git</th>
+        <th>VS Code</th>
+        <th>IntelliJ IDEA</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="55" height="55"/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
   <h3>Operating Systems I Use:</h3>
   <table>
@@ -180,7 +183,7 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
 </div>
 <br>
 <div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=monokai" alt="chandan789maity" width="69%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=monokai" alt="chandan789maity"/>
 </div>
 
 <!-- ---------------------- -->
