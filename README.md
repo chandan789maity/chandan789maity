@@ -58,7 +58,7 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
 <h3 align="left">Machine Learning Skills I Use:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,spring,firebase" />
+    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
   </a>
 </p>
 </div>
