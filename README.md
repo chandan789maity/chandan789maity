@@ -7,7 +7,17 @@
 
 - 📫 How to reach me: *maity789chandan@gmail.com*
 
-I am a Computer Science and Engineering (CSE) student, a full stack MERN developer, and a machine learning enthusiast. I love working on innovative projects and exploring new technologies. I have a strong foundation in both frontend and backend development, and I am constantly learning and growing my skills.
+<h3>About Me:</h3>
+<ul>
+  <li>👨‍🎓 Computer Science and Engineering (CSE) student</li>
+  <li>🛠️ Full stack MERN developer</li>
+  <li>🤖 Machine learning enthusiast</li>
+  <li>💡 Passionate about innovative projects</li>
+  <li>🌐 Enjoy exploring new technologies</li>
+  <li>🌟 Strong foundation in frontend development</li>
+  <li>🔧 Strong foundation in backend development</li>
+  <li>📚 Constantly learning and growing my skills</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
