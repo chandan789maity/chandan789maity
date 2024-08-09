@@ -19,7 +19,7 @@
   <li>📚 Constantly learning and growing my skills</li>
 </ul>
 
-## 📞 Connect with Me
+## 📱 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/chandan-maity-4b7643265/" target="_blank">
