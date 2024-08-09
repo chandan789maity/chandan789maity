@@ -36,31 +36,14 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
 </p>
 </div>
 
+<div>
 <h3 align="left">Frontend Skills I Use:</h3>
-<table>
-  <thead>
-    <tr>
-      <th>React</th>
-      <th>Tailwind</th>
-      <th>Bootstrap</th>
-      <th>CSS</th>
-      <th>HTML</th>
-      <th>Redux</th>
-      <th>Material UI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/></td>
-      <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/tailwind.png" title="Tailwind" alt="Tailwind" width="55" height="55"/></td>
-      <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/boot.png" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="55" height="55"/></td>
-    </tr>
-  </tbody>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,css,html,redux,materialui" />
+  </a>
+</p>
+</div>
 
 <h3>Backend Skills I Use:</h3>
 <table>
