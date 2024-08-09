@@ -26,9 +26,11 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
     Visit my Portfolio
   </a>
 </p>
+
+## 🛠️ My Skills
 <!-- ------------------------------------------------------------------------------------------------------------------------------ -->
 <div>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,py,c" />
