@@ -25,15 +25,15 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/chandan-maity-4b7643265/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/chandan_maity_789/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30" height="30"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="mailto:maity789chandan@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" height="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
   </a>
   
 </p>
