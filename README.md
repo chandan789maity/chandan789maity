@@ -19,14 +19,21 @@
   <li>📚 Constantly learning and growing my skills</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+## 📞 Connect with Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/chandan-maity-4b7643265/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  <a href="https://linkedin.com/in/chandan-maity-4b7643265/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://instagram.com/chandan_maity_789/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  &nbsp;
+  <a href="https://instagram.com/chandan_maity_789/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30" height="30"/>
   </a>
+  &nbsp;
+  <a href="mailto:maity789chandan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" height="30"/>
+  </a>
+  
 </p>
 
 <h3 align="left">Portfolio:</h3>
