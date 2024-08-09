@@ -1,5 +1,5 @@
 ![logo](https://github.com/chandan789maity/chandan789maity/blob/main/1.png)
-<h1 align="center">Hi 👋, I'm Chandan Maity</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />, I'm Chandan Maity</h1>
 <h3 align="center">A passionate Fullstack web developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/free-vector/man-sitting-desktop-pc-computer-screen_3446-328.jpg?size=626&ext=jpg&ga=GA1.1.1536215559.1703188933&semt=ais">
 
