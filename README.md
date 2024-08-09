@@ -26,7 +26,7 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
     Visit my Portfolio
   </a>
 </p>
-
+<!-- ------------------------------------------------------------------------------------------------------------------------------ -->
 <div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -70,30 +70,19 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
     <img src="https://skillicons.dev/icons?i=anaconda,vscode,idea,postman,maven,vite,netlify,github,git" />
   </a>
 </p>
-  
 </div>
 
-
-  <h3>Operating Systems I Use:</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Linux</th>
-        <th>Ubuntu</th>
-        <th>Parrot</th>
-        <th>Windows</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-       <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/></td>
-        <td><img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Parrot" alt="Parrot" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/></td>
-      </tr>
-    </tbody>
-  </table>
+<div>
+  <h3 align="left">Operating Systems I Use:</h3>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  </a>
+</p>
+  </div>
   
+<!--   -------------------------------------------------- --------------------------------------------------------------------------------------->
+
 <div>
   <h3 align="left">GitHub Stats:</h3>
   <p align="center">
