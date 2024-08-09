@@ -3,9 +3,10 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=850&duration=1500&pause=1000&lines=A+passionate+Fullstack+web+developer+from+India;A+passionate+AI-ML+developer+from+India;" width="auto" height="35"/>
 </p>
-<img align="right" alt="coding" width="300" src="https://img.freepik.com/free-vector/man-sitting-desktop-pc-computer-screen_3446-328.jpg?size=626&ext=jpg&ga=GA1.1.1536215559.1703188933&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan789maity&label=Profile%20views&color=0e75b6&style=flat" alt="chandan789maity" /> </p>
+<img align="right" alt="coding" width="500" height="300" src="https://github.com/chandan789maity/chandan789maity/blob/main/bg.gif?size=626&ext=jpg&ga=GA1.1.1536215559.1703188933&semt=ais">
+
 
 - 📫 How to reach me: *maity789chandan@gmail.com*
 
