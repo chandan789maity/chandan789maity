@@ -45,49 +45,23 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
 </p>
 </div>
 
-<h3>Backend Skills I Use:</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Node.js</th>
-      <th>Express</th>
-      <th>MongoDB</th>
-      <th>MySQL</th>
-      <th>Spring Boot</th>
-      <th>Firebase</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/></td>
-      <td><img src="https://github.com/chandan789maity/chandan789maity/blob/main/express.png" title="Express" alt="Express" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/></td>
-    </tr>
-  </tbody>
-</table>
+<div>
+<h3 align="left">Backend Skills I Use:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,spring,firebase" />
+  </a>
+</p>
+</div>
 
-<h3>Machine Learning Skills I Use:</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Numpy</th>
-      <th>Pandas</th>
-      <th>Scikit-Learn</th>
-      <th>Matplotlib</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/></td>
-    </tr>
-  </tbody>
-</table>
+<div>
+<h3 align="left">Machine Learning Skills I Use:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,spring,firebase" />
+  </a>
+</p>
+</div>
 
 <div>
   <h3>Environments and Tools I Use:</h3>
