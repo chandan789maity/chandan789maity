@@ -67,7 +67,7 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
   <h3 align="left">Environments and Tools I Use:</h3>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,vscode,idea,postman,maven,vite,netlify,github,git" />
+    <img src="https://skillicons.dev/icons?i=anaconda,vscode,idea,postman,maven,vite,netlify,vercel,github,git" />
   </a>
 </p>
 </div>
