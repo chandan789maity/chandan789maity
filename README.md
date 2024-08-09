@@ -27,29 +27,14 @@ I am a Computer Science and Engineering (CSE) student, a full stack MERN develop
   </a>
 </p>
 
+<div>
 <h3 align="left">Languages and Tools:</h3>
-<table>
-  <thead>
-    <tr>
-      <th>JS</th>
-      <th>Typescript</th>
-      <th>C++</th>
-      <th>Java</th>
-      <th>Python</th>
-      <th>C</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/></td>
-    </tr>
-  </tbody>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,py,c" />
+  </a>
+</p>
+</div>
 
 <h3 align="left">Frontend Skills I Use:</h3>
 <table>
