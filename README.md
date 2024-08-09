@@ -5,11 +5,12 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan789maity&label=Profile%20views&color=0e75b6&style=flat" alt="chandan789maity" /> </p>
+ <img align="right" alt="coding" width="450" src="https://github.com/chandan789maity/chandan789maity/blob/main/bg.gif?size=626&ext=jpg&ga=GA1.1.1536215559.1703188933&semt=ais">
 
 - 📫 How to reach me: *maity789chandan@gmail.com*
 
 <div>
-   <img align="right" alt="coding" width="45%" height="100%" src="https://github.com/chandan789maity/chandan789maity/blob/main/bg.gif?size=626&ext=jpg&ga=GA1.1.1536215559.1703188933&semt=ais">
+  
 <h3>About Me:</h3>
 <ul>
   <li>👨‍🎓 Computer Science and Engineering (CSE) student</li>
