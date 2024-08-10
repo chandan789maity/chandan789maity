@@ -1,4 +1,4 @@
-![logo](https://github.com/chandan789maity/chandan789maity/blob/main/header.png)
+![logo](https://github.com/chandan789maity/chandan789maity/blob/main/head.png)
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />, I'm Chandan Maity</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=850&duration=1500&pause=1000&lines=A+passionate+Fullstack+web+developer+from+India;A+passionate+AI-ML+developer+from+India;" width="auto" height="35"/>
