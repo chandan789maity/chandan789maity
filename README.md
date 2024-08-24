@@ -145,21 +145,10 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&prs&cache_seconds=86400&theme=midnight-purple" height="204em"">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=midnight-purple" height="204em"">
+<img src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&prs&cache_seconds=86400&theme=midnight-purple" height="200em"">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=midnight-purple" height="200em"">
 </div>
 
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&prs&cache_seconds=86400&theme=midnight-purple" style="height: 204px; width: auto; max-width: 48%; margin: 10px;" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=midnight-purple" style="height: 204px; width: auto; max-width: 48%; margin: 10px;" alt="GitHub Streak">
-</div>
-
-<!-- Responsive behavior for extra small screens -->
-<div align="center" style="display: flex; flex-direction: column; align-items: center; max-width: 100%; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&prs&cache_seconds=86400&theme=midnight-purple" style="height: 204px; width: 100%; max-width: 100%; margin: 10px 0;" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=midnight-purple" style="height: 204px; width: 100%; max-width: 100%; margin: 10px 0;" alt="GitHub Streak">
-</div>
 
 
 
