@@ -158,7 +158,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=ambient_gradient)](https://github.com/chandan789maity/FrontRow)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=JavaOpenNLP&theme=ambient_gradient)](https://github.com/chandan789maity/JavaOpenNLP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=LiveLink&theme=ambient_gradient)](https://github.com/chandan789maity/LiveLink)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=ambient_gradient)](https://github.com/chandan789maity/FrontRow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=Portfolio&theme=ambient_gradient)](https://github.com/chandan789maity/Portfolio)
 </p>
 <!-- ---------------------- -->
 <p align="center">
