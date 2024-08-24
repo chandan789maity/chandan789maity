@@ -150,11 +150,17 @@
 </div> -->
 <!-- ======================================================================================================================= -->
 
+## 📑 Recent Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=differ&theme=dark)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 <!-- ---------------------- -->
 <p align="center">
  <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
 </p>
+
+
 
 
 <!-- <img src="https://myreadme.vercel.app/api/embed/chandan789maity?panels=userstatistics,toplanguages,toprepositories&theme=midnight-purple" alt="reimaginedreadme" /> -->
