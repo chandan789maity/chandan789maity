@@ -160,7 +160,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=LiveLink&theme=midnight-purple&hide_border=true)](https://github.com/chandan789maity/LiveLink)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=Portfolio&theme=midnight-purple&hide_border=true)](https://github.com/chandan789maity/Portfolio)
 </p>
-FrontRow
 <!-- ---------------------- -->
 <p align="center">
  <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
