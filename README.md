@@ -111,8 +111,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 <div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="204em" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="204em" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="204em" width="48%" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" width="48%" height="204em" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
  
 
 <div>
