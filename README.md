@@ -113,7 +113,8 @@
 <div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="200px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="200px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
- 
+</div>
+<br>
 
 <div>
   <p align="center">
@@ -126,7 +127,6 @@
 
 
 </div>
-<br>
 <div id="header" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&hide_border=true&theme=midnight-purple" alt="chandan789maity"/>
 </div>
