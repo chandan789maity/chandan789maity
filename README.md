@@ -120,7 +120,7 @@
 <!-- ----------- -->
 <div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&hide_border=false&theme=gotham" height="204em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&hide_border=false&theme=gotham&exclude=html,CSS,Jupyter%20Notebook" height="204em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork&theme=midnight-purple&exclude=html,CSS,Jupyter%20Notebook" height="204em" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
 </div>
 <br>
 <div id="header" align="center">
@@ -146,6 +146,7 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork&theme=midnight-purple )](https://github.com/anuraghazra/github-readme-stats)
 
 
 
