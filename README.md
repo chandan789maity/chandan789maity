@@ -153,12 +153,12 @@
 ## 📑 Recent Projects
 <p align="center">
    
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=ChatBot-Using-Gemini&theme=midnight-purple)](https://github.com/chandan789maity/ChatBot-Using-Gemini)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=EduConnect&theme=midnight-purple)](https://github.com/chandan789maity/EduConnect)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=midnight-purple)](https://github.com/chandan789maity/FrontRow)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=JavaOpenNLP&theme=midnight-purple)](https://github.com/chandan789maity/JavaOpenNLP)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=LiveLink&theme=midnight-purple)](https://github.com/chandan789maity/LiveLink)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=Portfolio&theme=midnight-purple)](https://github.com/chandan789maity/Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=ChatBot-Using-Gemini&theme=midnight-purple&hide_border=true)](https://github.com/chandan789maity/ChatBot-Using-Gemini)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=EduConnect&theme=midnight-purple&hide_border=true)](https://github.com/chandan789maity/EduConnect)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=midnight-purple&hide_border=true)](https://github.com/chandan789maity/FrontRow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=JavaOpenNLP&theme=midnight-purple&hide_border=true)](https://github.com/chandan789maity/JavaOpenNLP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=LiveLink&theme=midnight-purple&hide_border=true)](https://github.com/chandan789maity/LiveLink)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=Portfolio&theme=midnight-purple&hide_border=true)](https://github.com/chandan789maity/Portfolio)
 </p>
 FrontRow
 <!-- ---------------------- -->
