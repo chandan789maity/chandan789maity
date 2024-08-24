@@ -117,10 +117,11 @@
 <br>
 <div>
   <p align="center">
-    <a href="https://github.com/chandan789maity">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=midnight_purple&hide_border=false" height="220px" alt="Chandan's GitHub Profile Summary" />
-    </a>
-  </p>
+  <a href="https://github.com/chandan789maity">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=midnight_purple&hide_border=false" height="220px" alt="Chandan's GitHub Profile Summary" style="border: 2px solid white; border-radius: 10px;" />
+  </a>
+</p>
+
 </div>
 <!-- ----------- -->
 </div>
