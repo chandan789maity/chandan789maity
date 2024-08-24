@@ -144,4 +144,9 @@
  <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
 </p>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&prs&cache_seconds=86400&theme=midnight-purple">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=midnight-purple">
+</div>
+
 
