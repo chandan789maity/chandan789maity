@@ -152,7 +152,7 @@
 
 ## 📑 Recent Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=differ&theme=dark)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=ChatBot-Using-Gemini&theme=dark)](https://github.com/chandan789maity/ChatBot-Using-Gemini)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 <!-- ---------------------- -->
