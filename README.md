@@ -153,12 +153,12 @@
 ## 📑 Recent Projects
 <p align="center">
    
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=ChatBot-Using-Gemini&theme=ambient_gradient)](https://github.com/chandan789maity/ChatBot-Using-Gemini)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=EduConnect&theme=ambient_gradient)](https://github.com/chandan789maity/EduConnect)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=ambient_gradient)](https://github.com/chandan789maity/FrontRow)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=JavaOpenNLP&theme=ambient_gradient)](https://github.com/chandan789maity/JavaOpenNLP)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=LiveLink&theme=ambient_gradient)](https://github.com/chandan789maity/LiveLink)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=Portfolio&theme=ambient_gradient)](https://github.com/chandan789maity/Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=ChatBot-Using-Gemini&theme=radical)](https://github.com/chandan789maity/ChatBot-Using-Gemini)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=EduConnect&theme=radical)](https://github.com/chandan789maity/EduConnect)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=radical)](https://github.com/chandan789maity/FrontRow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=JavaOpenNLP&theme=radical)](https://github.com/chandan789maity/JavaOpenNLP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=LiveLink&theme=radical)](https://github.com/chandan789maity/LiveLink)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=Portfolio&theme=radical)](https://github.com/chandan789maity/Portfolio)
 </p>
 FrontRow
 <!-- ---------------------- -->
