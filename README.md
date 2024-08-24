@@ -79,7 +79,7 @@
 <h3 align="left">Machine Learning Skills I Use:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" />
   </a>
 </p>
 </div>
