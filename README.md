@@ -151,14 +151,15 @@
 <!-- ======================================================================================================================= -->
 
 ## 📑 Recent Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=ChatBot-Using-Gemini&theme=dark)](https://github.com/chandan789maity/ChatBot-Using-Gemini)
+<p align="center">
+   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=ChatBot-Using-Gemini&theme=ambient_gradient)](https://github.com/chandan789maity/ChatBot-Using-Gemini)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=ambient_gradient)](https://github.com/chandan789maity/FrontRow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=aura)](https://github.com/chandan789maity/FrontRow)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=dark)](https://github.com/chandan789maity/FrontRow)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=dark)](https://github.com/chandan789maity/FrontRow)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=dark)](https://github.com/chandan789maity/FrontRow)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=dark)](https://github.com/chandan789maity/FrontRow)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=dark)](https://github.com/chandan789maity/FrontRow)
-
+</p>
 <!-- ---------------------- -->
 <p align="center">
  <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
