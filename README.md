@@ -156,8 +156,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=ChatBot-Using-Gemini&theme=ambient_gradient)](https://github.com/chandan789maity/ChatBot-Using-Gemini)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=EduConnect&theme=ambient_gradient)](https://github.com/chandan789maity/EduConnect)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=ambient_gradient)](https://github.com/chandan789maity/FrontRow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=JavaOpenNLP&theme=ambient_gradient)](https://github.com/chandan789maity/JavaOpenNLP)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=dark)](https://github.com/chandan789maity/FrontRow)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=dark)](https://github.com/chandan789maity/FrontRow)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chandan789maity&repo=FrontRow&theme=dark)](https://github.com/chandan789maity/FrontRow)
 </p>
