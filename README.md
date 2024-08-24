@@ -145,8 +145,8 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&prs&cache_seconds=86400&theme=midnight-purple" width="48%" height="400px">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=midnight-purple" width="48%" height="404px">
+<img src="https://github-readme-stats.vercel.app/api?username=chandan789maity&show_icons=true&prs&cache_seconds=86400&theme=midnight-purple" height="204em"">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=midnight-purple" height="204em"">
 </div>
 
 
