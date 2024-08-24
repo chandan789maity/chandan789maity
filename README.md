@@ -20,6 +20,9 @@
   <li>📚 Constantly learning and growing my skills</li>
 </ul>
 </div>
+<p align="center">
+ <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
+</p>
 
 ## 📱 Connect with Me
 
@@ -138,7 +141,5 @@
 <p align="center">
      <img width="960" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-<p align="center">
- <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
-</p>
+
 
