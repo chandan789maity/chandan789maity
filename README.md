@@ -146,7 +146,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork&theme=midnight-purple )](https://github.com/anuraghazra/github-readme-stats)
-
-
 
