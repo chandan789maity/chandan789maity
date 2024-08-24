@@ -119,7 +119,7 @@
 <div>
   <p align="center">
     <a href="https://github.com/chandan789maity">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&hide_border=false&theme=gotham" alt="Chandan's GitHub Profile Summary" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=midnight_purple&hide_border=false" alt="Chandan's GitHub Profile Summary" />
     </a>
   </p>
 </div>
