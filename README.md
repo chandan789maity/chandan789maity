@@ -108,7 +108,7 @@
   </div>
 <!--   ------------------------------------------------------------------------------------------------------------------------------------ -->
   
-  ## :trophy: Git profile Trophies
+  ## 🎖️ Git profile Trophies
 
 <p align="center">
  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=chandan789maity&theme=matrix" alt="Trophy"/>
