@@ -104,31 +104,35 @@
   
 <!--   -------------------------------------------------- --------------------------------------------------------------------------------------->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-<!-- =============================================GITHUB 2 STAT============================================================  -->
-<div>
-   <p align="center">
-   <a href="https://github.com/chandan789maity?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=chandan789maity&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@chandan789maity's github-readme-stats"/></a>
-   <a href="https://github.com/chandan789maity?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@chandan789maity's github-readme-streak-stats"/></a>
-   </p>
-</div>
-<!-- ======================================================================================================================= -->
 
 <div>
   <p align="center">
     <a href="https://github.com/chandan789maity">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=monokai" alt="Chandan's GitHub Profile Summary" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&hide_border=false&theme=gotham" alt="Chandan's GitHub Profile Summary" />
     </a>
   </p>
 </div>
 <!-- ----------- -->
 <div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&theme=monokai" height="204em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&theme=monokai&exclude=html,CSS,Jupyter%20Notebook" height="204em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&hide_border=false&theme=gotham" height="204em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandan789maity&hide_border=false&theme=gotham&exclude=html,CSS,Jupyter%20Notebook" height="204em" alt="Most Commits Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
 </div>
 <br>
 <div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&theme=monokai" alt="chandan789maity"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&hide_border=true&theme=gotham" alt="chandan789maity"/>
 </div>
+
+
+
+<!-- =============================================GITHUB 2 STAT============================================================  -->
+<!-- <div>
+   <p align="center">
+   <a href="https://github.com/chandan789maity?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=chandan789maity&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@chandan789maity's github-readme-stats"/></a>
+   <a href="https://github.com/chandan789maity?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@chandan789maity's github-readme-streak-stats"/></a>
+   </p>
+</div> -->
+<!-- ======================================================================================================================= -->
+
 
 <!-- ---------------------- -->
 <p align="center">
