@@ -110,37 +110,23 @@
 <!--   -------------------------------------------------- --------------------------------------------------------------------------------------->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-<p align="center">
-<a href="https://github.com/chandan789maity?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=chandan789maity&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="40%" alt="@chandan789maity's github-readme-stats"/></a>
-<a href="https://github.com/chandan789maity?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=chandan789maity&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="40%" alt="@chandan789maity's github-readme-streak-stats"/></a>
-</p>
-
-<div>
-  <p align="center">
-    <a href="https://github.com/chandan789maity">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=midnight_purple&hide_border=false" width="80%" alt="Chandan's GitHub Profile Summary" />
-    </a>
-  </p>
-</div>
-<!-- ----------- -->
-
-
-
-<div align="center" style="background-color: #1e1e1e; width:90%; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
+<div align="center" style="background-color: #1e1e1e; width:95%; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="200px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="200px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
 </div>
 <br>
-
-
-
-
+<div>
+  <p align="center">
+    <a href="https://github.com/chandan789maity">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=midnight_purple&hide_border=false" height="200px" alt="Chandan's GitHub Profile Summary" />
+    </a>
+  </p>
+</div>
+<!-- ----------- -->
 </div>
 <div id="header" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan789maity&hide_border=true&theme=midnight-purple" alt="chandan789maity"/>
 </div>
-
-
 
 <!-- =============================================GITHUB 2 STAT============================================================  -->
 <!-- <div>
