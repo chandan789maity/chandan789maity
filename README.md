@@ -120,7 +120,8 @@
 <!-- ----------- -->
 <div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan789maity&hide_border=false&theme=gotham" height="204em" alt="Stats" style="border-radius: 10px; border: 1px solid #00bfae;"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork&theme=midnight-purple&exclude=html,CSS,Jupyter%20Notebook" height="204em" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="204em" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;"/>
+
 </div>
 <br>
 <div id="header" align="center">
