@@ -129,10 +129,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=midnight_purple&hide_border=false" alt="Chandan's GitHub Profile Summary" style="border: 2px solid white; border-radius: 10px;" />
   </a>
 </p>
-
-
-
 </div>
+
 <!-- ----------- -->
 </div>
 <div id="header" align="center">
@@ -164,22 +162,4 @@
 <p align="center">
  <img width="1000" src="https://github.com/chandan789maity/chandan789maity/blob/main/github-snake.svg" alt="snake"/>
 </p>
-
-<table align="center" width="1000" style="background-color: #1e1e1e; padding: 20px; border-radius: 15px; border: 2px solid #00bfae;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple&show_icons=true&count_private=true" height="190px" alt="GitHub Stats" style="border-radius: 10px; border: 1px solid #00bfae;" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan789maity&hide_border=true&layout=compact&exclude_repo=Robotframwork&hide=Jupyter%20Notebook,Robotframwork&theme=midnight-purple" height="190px" alt="Most Used Languages" style="border-radius: 10px; border: 1px solid #00bfae;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/chandan789maity">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan789maity&theme=midnight_purple&hide_border=false" alt="Chandan's GitHub Profile Summary" style="border: 2px solid white; border-radius: 10px;" />
-      </a>
-    </td>
-  </tr>
-</table>
 
