@@ -166,7 +166,3 @@
 </p>
 
 
-
-
-<!-- <img src="https://myreadme.vercel.app/api/embed/chandan789maity?panels=userstatistics,toplanguages,toprepositories&theme=midnight-purple" alt="reimaginedreadme" /> -->
-
